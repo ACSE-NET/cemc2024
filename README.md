@@ -3,143 +3,135 @@
 ## Resources
 
 - [LICENSE](LICENSE)
-- [README.md](README.md)
-- [create_markdown_file_structure.py](create_markdown_file_structure.py)
-- [directory_structure.md](directory_structure.md)
-- **resources/**
-    - [rename.py](resources/rename.py)
-    - [_Summary_Resources_from_Participants_2024.pdf](resources/_Summary_Resources_from_Participants_2024.pdf)
-    - **Esteban_Delossa/**
-        - [Group4-R.sb3](resources/Esteban_Delossa/Group4-R.sb3)
-        - [Group1-R.sb3](resources/Esteban_Delossa/Group1-R.sb3)
-        - [Scratch_Rocket_Animation_Assignment.doc](resources/Esteban_Delossa/Scratch_Rocket_Animation_Assignment.doc)
-        - [Group8-R.sb3](resources/Esteban_Delossa/Group8-R.sb3)
-    - **Monique_Dubytz/**
-        - [Ressource_-_Dubytz.zip](resources/Monique_Dubytz/Ressource_-_Dubytz.zip)
-        - **Ressource_-_Dubytz.zip_(Unzipped_Files)/**
-            - [lecon_7_-_Bouton_et_RGB.pptx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/lecon_7_-_Bouton_et_RGB.pptx)
-            - [lecon_8_-_Sonde_Ultrasonic.pptx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/lecon_8_-_Sonde_Ultrasonic.pptx)
-            - [lecon_1_-_base_circuit.pptx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/lecon_1_-_base_circuit.pptx)
-            - [Projet_Arduino_C.docx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/Projet_Arduino_C.docx)
-            - [lecon_3_-_le_microprocesseur.pptx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/lecon_3_-_le_microprocesseur.pptx)
-            - [lecon_4-_premier_code_et_projet.pptx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/lecon_4-_premier_code_et_projet.pptx)
-            - [grille_arduino.docx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/grille_arduino.docx)
-            - [lecon_6_-_Arrays_et_boucles.pptx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/lecon_6_-_Arrays_et_boucles.pptx)
-            - [lecon_5-_constantes,_variables_et_random.pptx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/lecon_5-_constantes,_variables_et_random.pptx)
-            - [lecon_2_-_environnement_IDE.pptx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/lecon_2_-_environnement_IDE.pptx)
-    - **Matthew_Ierfino/**
-        - [collision_activity.zip](resources/Matthew_Ierfino/collision_activity.zip)
-        - [AIGame2.zip](resources/Matthew_Ierfino/AIGame2.zip)
-        - [Intro_to_Collision_Detection_Activity.zip](resources/Matthew_Ierfino/Intro_to_Collision_Detection_Activity.zip)
-        - **Intro_to_Collision_Detection_Activity/**
-            - [collision_activity_processing.zip](resources/Matthew_Ierfino/Intro_to_Collision_Detection_Activity/collision_activity_processing.zip)
-            - [Intro_to_Collision_Detection.pdf](resources/Matthew_Ierfino/Intro_to_Collision_Detection_Activity/Intro_to_Collision_Detection.pdf)
-        - **AIGame2/**
-            - [AIGame2.pde](resources/Matthew_Ierfino/AIGame2/AIGame2.pde)
-            - [PWindow.pde](resources/Matthew_Ierfino/AIGame2/PWindow.pde)
-            - [Neuron.pde](resources/Matthew_Ierfino/AIGame2/Neuron.pde)
-            - [LittleGuy.pde](resources/Matthew_Ierfino/AIGame2/LittleGuy.pde)
-            - **data/**
-        - **collision_activity/**
-            - [soccerball.png](resources/Matthew_Ierfino/collision_activity/soccerball.png)
-            - [collision_activity.pde](resources/Matthew_Ierfino/collision_activity/collision_activity.pde)
-            - [soccernet.png](resources/Matthew_Ierfino/collision_activity/soccernet.png)
-    - **Meagan_Furgal/**
-        - [CEMC_-_ICS4U_Lesson_Trees.zip](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees.zip)
-        - [CEMC_-_ICS4U_Lesson_Trees_Abstract.pdf](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees_Abstract.pdf)
-        - **CEMC_-_ICS4U_Lesson_Trees/**
-            - [7_-_Small_Group_Problems.pdf](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/7_-_Small_Group_Problems.pdf)
-            - [4_-_Trees_Whiteboard_Examples.pdf](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/4_-_Trees_Whiteboard_Examples.pdf)
-            - [5_-_live_coding_plan.py](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/5_-_live_coding_plan.py)
-            - [1_-_Trees_Lesson_Plan.docx.pdf](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/1_-_Trees_Lesson_Plan.docx.pdf)
-            - [3_-_Trees_Information_Sheet.pdf](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/3_-_Trees_Information_Sheet.pdf)
-            - [6_-_live_coding_starter.py](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/6_-_live_coding_starter.py)
-            - [2_-_Trees_Exit_Ticket.pdf](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/2_-_Trees_Exit_Ticket.pdf)
-            - [10_-_Trees_Quiz.pdf](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/10_-_Trees_Quiz.pdf)
-            - [11_-Trees_Quiz_-_Solutions.pdf](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/11_-Trees_Quiz_-_Solutions.pdf)
-            - [9_-_Assignment_Solutions.zip](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/9_-_Assignment_Solutions.zip)
-            - [8_-_Trees_Assignment.pdf](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/8_-_Trees_Assignment.pdf)
-    - **Tony_Theodoropoulos/**
-        - [ATM_Design.pdf](resources/Tony_Theodoropoulos/ATM_Design.pdf)
-    - **Michael_Seto/**
-        - [ICD2O0_Assignment_-_IceCreamCostCalculator.docx](resources/Michael_Seto/ICD2O0_Assignment_-_IceCreamCostCalculator.docx)
-    - **Brendan_ONeil/**
-        - [PiPico-CPT-CarOrClaw-1stYear.zip](resources/Brendan_ONeil/PiPico-CPT-CarOrClaw-1stYear.zip)
-        - [PiPico-AbstractRead1st.txt.txt](resources/Brendan_ONeil/PiPico-AbstractRead1st.txt.txt)
-    - **Jill_Harris/**
-        - [MyResourcesSubmitted.zip](resources/Jill_Harris/MyResourcesSubmitted.zip)
-        - **MyResourcesSubmitted/**
-            - [Reflection_-_Results_&_Tomorrow_-_Copy.docx](resources/Jill_Harris/MyResourcesSubmitted/Reflection_-_Results_&_Tomorrow_-_Copy.docx)
-            - [LessonIntroToAI_-_Copy.docx](resources/Jill_Harris/MyResourcesSubmitted/LessonIntroToAI_-_Copy.docx)
-            - [CopyOfPieceofFeedBackForm_-_make_it_work_for_you.docx](resources/Jill_Harris/MyResourcesSubmitted/CopyOfPieceofFeedBackForm_-_make_it_work_for_you.docx)
-            - [GoogleClassroomTaskEntryPointInstructions_-_Copy.PNG](resources/Jill_Harris/MyResourcesSubmitted/GoogleClassroomTaskEntryPointInstructions_-_Copy.PNG)
-            - **Some_of_The_Students_Work/**
-                - [ChatGPT_-_Phishing_Group_4.pptx](resources/Jill_Harris/MyResourcesSubmitted/Some_of_The_Students_Work/ChatGPT_-_Phishing_Group_4.pptx)
-                - [Group_3__summary_AI_usage.xlsx](resources/Jill_Harris/MyResourcesSubmitted/Some_of_The_Students_Work/Group_3__summary_AI_usage.xlsx)
-                - [Group1_Copy_of_Summary_AI_usage.xlsx](resources/Jill_Harris/MyResourcesSubmitted/Some_of_The_Students_Work/Group1_Copy_of_Summary_AI_usage.xlsx)
-                - [GROUP5-_Summary_AI_usage.xlsx](resources/Jill_Harris/MyResourcesSubmitted/Some_of_The_Students_Work/GROUP5-_Summary_AI_usage.xlsx)
-                - [Chatgpt_FIX_CODE_-_Level_1.pptx](resources/Jill_Harris/MyResourcesSubmitted/Some_of_The_Students_Work/Chatgpt_FIX_CODE_-_Level_1.pptx)
-                - [Group2_AI_Quiz.pptx](resources/Jill_Harris/MyResourcesSubmitted/Some_of_The_Students_Work/Group2_AI_Quiz.pptx)
-                - [Copy_of_Summary_AI_usage_Group_2.xlsx](resources/Jill_Harris/MyResourcesSubmitted/Some_of_The_Students_Work/Copy_of_Summary_AI_usage_Group_2.xlsx)
-    - **Raj_Nachimuthu/**
-        - [Abstract.pdf](resources/Raj_Nachimuthu/Abstract.pdf)
-        - [Assignment_-_Designing_a_network.pdf](resources/Raj_Nachimuthu/Assignment_-_Designing_a_network.pdf)
-    - **Asma_Arif/**
-        - [_ICS3UculmProjectOutline-June_2024.docx](resources/Asma_Arif/_ICS3UculmProjectOutline-June_2024.docx)
-    - **Ram_Etwaroo/**
-        - [Learning_Java.pptx](resources/Ram_Etwaroo/Learning_Java.pptx)
-    - **Kitty_Wu/**
-        - [ID2O_Shopping_Guide_for_Various_Industries.pdf](resources/Kitty_Wu/ID2O_Shopping_Guide_for_Various_Industries.pdf)
-    - **Hanna_Kim/**
-        - [Lesson_#2_Worksheets.pdf](resources/Hanna_Kim/Lesson_#2_Worksheets.pdf)
-        - [Cybersecurity_-_Lesson_3.pdf](resources/Hanna_Kim/Cybersecurity_-_Lesson_3.pdf)
-        - [Cybersecurity_-_Lesson_2.pdf](resources/Hanna_Kim/Cybersecurity_-_Lesson_2.pdf)
-        - [Cybersecurity_-_Lesson_1.pdf](resources/Hanna_Kim/Cybersecurity_-_Lesson_1.pdf)
-        - [Unit_5_-_Summative_-_Cybersecurity_Comic_Strip.pdf](resources/Hanna_Kim/Unit_5_-_Summative_-_Cybersecurity_Comic_Strip.pdf)
-    - **Peter_Conlon/**
-        - [summer_institute_resource_Conlon2024.docx](resources/Peter_Conlon/summer_institute_resource_Conlon2024.docx)
-        - [read_me_Conlon2024.docx](resources/Peter_Conlon/read_me_Conlon2024.docx)
-    - **Helen_Strelkovska/**
-        - [If_and_Loops_for_Arduino.zip](resources/Helen_Strelkovska/If_and_Loops_for_Arduino.zip)
-        - **If_and_Loops_for_Arduino/**
-            - [For_Loop_Arduino.docx](resources/Helen_Strelkovska/If_and_Loops_for_Arduino/For_Loop_Arduino.docx)
-            - [If_Statements_Arduino.docx](resources/Helen_Strelkovska/If_and_Loops_for_Arduino/If_Statements_Arduino.docx)
-            - [if_statementArduino_worksheet.docx](resources/Helen_Strelkovska/If_and_Loops_for_Arduino/if_statementArduino_worksheet.docx)
-    - **Jeff_Campbell/**
-        - [7_Reasons_This_Assignment_Will_Be_More_Interesting_Than_You_Think_(Number_3_Will_Surprise_You).docx](resources/Jeff_Campbell/7_Reasons_This_Assignment_Will_Be_More_Interesting_Than_You_Think_(Number_3_Will_Surprise_You).docx)
-    - **Mark_Bouwmeester/**
-        - [2_Planning_TicTacToe.pdf](resources/Mark_Bouwmeester/2_Planning_TicTacToe.pdf)
-        - [1_Introduction.pdf](resources/Mark_Bouwmeester/1_Introduction.pdf)
-        - [4_Project_Instructions.pdf](resources/Mark_Bouwmeester/4_Project_Instructions.pdf)
-        - [3_AI_Player.pdf](resources/Mark_Bouwmeester/3_AI_Player.pdf)
-        - [Game.java](resources/Mark_Bouwmeester/Game.java)
-        - [Introduction_to_Q-Learning.pptx](resources/Mark_Bouwmeester/Introduction_to_Q-Learning.pptx)
-        - [AI.java](resources/Mark_Bouwmeester/AI.java)
-        - [TicTacToe.java](resources/Mark_Bouwmeester/TicTacToe.java)
-    - **Paul_King/**
-        - [Unit1_L6_Java_IO_math_Formulae.html](resources/Paul_King/Unit1_L6_Java_IO_math_Formulae.html)
-        - [lessons.css](resources/Paul_King/lessons.css)
-        - [Unit1_L5_Python_IO_math_Formulae.html](resources/Paul_King/Unit1_L5_Python_IO_math_Formulae.html)
-    - **Sandhya_Kemkar/**
-        - [TEJ2O_Robotics_unit_assignment.docx](resources/Sandhya_Kemkar/TEJ2O_Robotics_unit_assignment.docx)
-        - [TEJ3M_lab_assessment(_ver_2).docx](resources/Sandhya_Kemkar/TEJ3M_lab_assessment(_ver_2).docx)
-    - **Danny_Tsang/**
-        - [Checkers_java_project_instructions.txt](resources/Danny_Tsang/Checkers_java_project_instructions.txt)
-        - [Checkers_initial_Code_java.txt](resources/Danny_Tsang/Checkers_initial_Code_java.txt)
-    - **Richard_VanDeWiele/**
-        - [01_CULMINATING_ASSIGNMENT.docx](resources/Richard_VanDeWiele/01_CULMINATING_ASSIGNMENT.docx)
-        - [02_Game_Planning_Sheet.docx](resources/Richard_VanDeWiele/02_Game_Planning_Sheet.docx)
-    - **Catherine_McCaffery/**
-        - [Example_Privacy_Policy_-_Beat_Star.docx](resources/Catherine_McCaffery/Example_Privacy_Policy_-_Beat_Star.docx)
-        - [Assignment_-_Exploring_Data_Privacy_Concerns.docx](resources/Catherine_McCaffery/Assignment_-_Exploring_Data_Privacy_Concerns.docx)
-        - [Example_Terms_and_Conditions_-_Beat_Star.docx](resources/Catherine_McCaffery/Example_Terms_and_Conditions_-_Beat_Star.docx)
-    - **Kiley_McDaniel/**
-        - [CEMC_2024_McDaniel.zip](resources/Kiley_McDaniel/CEMC_2024_McDaniel.zip)
-        - [CEMC_2024_ICS3C_ICS4C_Python_programming_AND_pen_testing_lab_-_Kiley_McDaniel.txt](resources/Kiley_McDaniel/CEMC_2024_ICS3C_ICS4C_Python_programming_AND_pen_testing_lab_-_Kiley_McDaniel.txt)
-        - **CEMC_2024_McDaniel/**
-            - [_My_Personal_Dictionary.docx](resources/Kiley_McDaniel/CEMC_2024_McDaniel/_My_Personal_Dictionary.docx)
-            - [Assignment_2_(1).py](resources/Kiley_McDaniel/CEMC_2024_McDaniel/Assignment_2_(1).py)
-            - [lab05_instructions_and_rubric.docx](resources/Kiley_McDaniel/CEMC_2024_McDaniel/lab05_instructions_and_rubric.docx)
-            - [CEMC_2024_-_Assignment_2_-_My_Personal_Dictionary.docx](resources/Kiley_McDaniel/CEMC_2024_McDaniel/CEMC_2024_-_Assignment_2_-_My_Personal_Dictionary.docx)
-            - [CEMC2024_-_McD_-__Assignment_1_-_DC_Connect_-_Dual_Credit_-_Oct_30_Day_38.docx](resources/Kiley_McDaniel/CEMC_2024_McDaniel/CEMC2024_-_McD_-__Assignment_1_-_DC_Connect_-_Dual_Credit_-_Oct_30_Day_38.docx)
-            - [CEMC_2024_ICS3C_ICS4C_Python_programming_AND_pen_testing_lab_-_Kiley_McDaniel.txt](resources/Kiley_McDaniel/CEMC_2024_McDaniel/CEMC_2024_ICS3C_ICS4C_Python_programming_AND_pen_testing_lab_-_Kiley_McDaniel.txt)
+- [_Summary_Resources_from_Participants_2024.pdf](resources/_Summary_Resources_from_Participants_2024.pdf)
+- **Esteban_Delossa/**
+    - [Group4-R.sb3](resources/Esteban_Delossa/Group4-R.sb3)
+    - [Group1-R.sb3](resources/Esteban_Delossa/Group1-R.sb3)
+    - [Scratch_Rocket_Animation_Assignment.doc](resources/Esteban_Delossa/Scratch_Rocket_Animation_Assignment.doc)
+    - [Group8-R.sb3](resources/Esteban_Delossa/Group8-R.sb3)
+- **Monique_Dubytz/**
+    - [Ressource_-_Dubytz.zip](resources/Monique_Dubytz/Ressource_-_Dubytz.zip)
+    - **Ressource_-_Dubytz.zip_(Unzipped_Files)/**
+        - [lecon_7_-_Bouton_et_RGB.pptx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/lecon_7_-_Bouton_et_RGB.pptx)
+        - [lecon_8_-_Sonde_Ultrasonic.pptx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/lecon_8_-_Sonde_Ultrasonic.pptx)
+        - [lecon_1_-_base_circuit.pptx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/lecon_1_-_base_circuit.pptx)
+        - [Projet_Arduino_C.docx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/Projet_Arduino_C.docx)
+        - [lecon_3_-_le_microprocesseur.pptx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/lecon_3_-_le_microprocesseur.pptx)
+        - [lecon_4-_premier_code_et_projet.pptx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/lecon_4-_premier_code_et_projet.pptx)
+        - [grille_arduino.docx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/grille_arduino.docx)
+        - [lecon_6_-_Arrays_et_boucles.pptx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/lecon_6_-_Arrays_et_boucles.pptx)
+        - [lecon_5-_constantes,_variables_et_random.pptx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/lecon_5-_constantes,_variables_et_random.pptx)
+        - [lecon_2_-_environnement_IDE.pptx](resources/Monique_Dubytz/Ressource_-_Dubytz.zip_(Unzipped_Files)/lecon_2_-_environnement_IDE.pptx)
+- **Matthew_Ierfino/**
+    - [collision_activity.zip](resources/Matthew_Ierfino/collision_activity.zip)
+    - [AIGame2.zip](resources/Matthew_Ierfino/AIGame2.zip)
+    - [Intro_to_Collision_Detection_Activity.zip](resources/Matthew_Ierfino/Intro_to_Collision_Detection_Activity.zip)
+    - **Intro_to_Collision_Detection_Activity/**
+        - [collision_activity_processing.zip](resources/Matthew_Ierfino/Intro_to_Collision_Detection_Activity/collision_activity_processing.zip)
+        - [Intro_to_Collision_Detection.pdf](resources/Matthew_Ierfino/Intro_to_Collision_Detection_Activity/Intro_to_Collision_Detection.pdf)
+    - **AIGame2/**
+        - [AIGame2.pde](resources/Matthew_Ierfino/AIGame2/AIGame2.pde)
+        - [PWindow.pde](resources/Matthew_Ierfino/AIGame2/PWindow.pde)
+        - [Neuron.pde](resources/Matthew_Ierfino/AIGame2/Neuron.pde)
+        - [LittleGuy.pde](resources/Matthew_Ierfino/AIGame2/LittleGuy.pde)
+        - **data/**
+    - **collision_activity/**
+        - [soccerball.png](resources/Matthew_Ierfino/collision_activity/soccerball.png)
+        - [collision_activity.pde](resources/Matthew_Ierfino/collision_activity/collision_activity.pde)
+        - [soccernet.png](resources/Matthew_Ierfino/collision_activity/soccernet.png)
+- **Meagan_Furgal/**
+    - [CEMC_-_ICS4U_Lesson_Trees.zip](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees.zip)
+    - [CEMC_-_ICS4U_Lesson_Trees_Abstract.pdf](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees_Abstract.pdf)
+    - **CEMC_-_ICS4U_Lesson_Trees/**
+        - [7_-_Small_Group_Problems.pdf](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/7_-_Small_Group_Problems.pdf)
+        - [4_-_Trees_Whiteboard_Examples.pdf](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/4_-_Trees_Whiteboard_Examples.pdf)
+        - [1_-_Trees_Lesson_Plan.docx.pdf](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/1_-_Trees_Lesson_Plan.docx.pdf)
+        - [3_-_Trees_Information_Sheet.pdf](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/3_-_Trees_Information_Sheet.pdf)
+        - [2_-_Trees_Exit_Ticket.pdf](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/2_-_Trees_Exit_Ticket.pdf)
+        - [10_-_Trees_Quiz.pdf](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/10_-_Trees_Quiz.pdf)
+        - [11_-Trees_Quiz_-_Solutions.pdf](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/11_-Trees_Quiz_-_Solutions.pdf)
+        - [9_-_Assignment_Solutions.zip](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/9_-_Assignment_Solutions.zip)
+        - [8_-_Trees_Assignment.pdf](resources/Meagan_Furgal/CEMC_-_ICS4U_Lesson_Trees/8_-_Trees_Assignment.pdf)
+- **Tony_Theodoropoulos/**
+    - [ATM_Design.pdf](resources/Tony_Theodoropoulos/ATM_Design.pdf)
+- **Michael_Seto/**
+    - [ICD2O0_Assignment_-_IceCreamCostCalculator.docx](resources/Michael_Seto/ICD2O0_Assignment_-_IceCreamCostCalculator.docx)
+- **Brendan_ONeil/**
+    - [PiPico-CPT-CarOrClaw-1stYear.zip](resources/Brendan_ONeil/PiPico-CPT-CarOrClaw-1stYear.zip)
+    - [PiPico-AbstractRead1st.txt.txt](resources/Brendan_ONeil/PiPico-AbstractRead1st.txt.txt)
+- **Jill_Harris/**
+    - [MyResourcesSubmitted.zip](resources/Jill_Harris/MyResourcesSubmitted.zip)
+    - **MyResourcesSubmitted/**
+        - [Reflection_-_Results_&_Tomorrow_-_Copy.docx](resources/Jill_Harris/MyResourcesSubmitted/Reflection_-_Results_&_Tomorrow_-_Copy.docx)
+        - [LessonIntroToAI_-_Copy.docx](resources/Jill_Harris/MyResourcesSubmitted/LessonIntroToAI_-_Copy.docx)
+        - [CopyOfPieceofFeedBackForm_-_make_it_work_for_you.docx](resources/Jill_Harris/MyResourcesSubmitted/CopyOfPieceofFeedBackForm_-_make_it_work_for_you.docx)
+        - [GoogleClassroomTaskEntryPointInstructions_-_Copy.PNG](resources/Jill_Harris/MyResourcesSubmitted/GoogleClassroomTaskEntryPointInstructions_-_Copy.PNG)
+        - **Some_of_The_Students_Work/**
+            - [ChatGPT_-_Phishing_Group_4.pptx](resources/Jill_Harris/MyResourcesSubmitted/Some_of_The_Students_Work/ChatGPT_-_Phishing_Group_4.pptx)
+            - [Group_3__summary_AI_usage.xlsx](resources/Jill_Harris/MyResourcesSubmitted/Some_of_The_Students_Work/Group_3__summary_AI_usage.xlsx)
+            - [Group1_Copy_of_Summary_AI_usage.xlsx](resources/Jill_Harris/MyResourcesSubmitted/Some_of_The_Students_Work/Group1_Copy_of_Summary_AI_usage.xlsx)
+            - [GROUP5-_Summary_AI_usage.xlsx](resources/Jill_Harris/MyResourcesSubmitted/Some_of_The_Students_Work/GROUP5-_Summary_AI_usage.xlsx)
+            - [Chatgpt_FIX_CODE_-_Level_1.pptx](resources/Jill_Harris/MyResourcesSubmitted/Some_of_The_Students_Work/Chatgpt_FIX_CODE_-_Level_1.pptx)
+            - [Group2_AI_Quiz.pptx](resources/Jill_Harris/MyResourcesSubmitted/Some_of_The_Students_Work/Group2_AI_Quiz.pptx)
+            - [Copy_of_Summary_AI_usage_Group_2.xlsx](resources/Jill_Harris/MyResourcesSubmitted/Some_of_The_Students_Work/Copy_of_Summary_AI_usage_Group_2.xlsx)
+- **Raj_Nachimuthu/**
+    - [Abstract.pdf](resources/Raj_Nachimuthu/Abstract.pdf)
+    - [Assignment_-_Designing_a_network.pdf](resources/Raj_Nachimuthu/Assignment_-_Designing_a_network.pdf)
+- **Asma_Arif/**
+    - [_ICS3UculmProjectOutline-June_2024.docx](resources/Asma_Arif/_ICS3UculmProjectOutline-June_2024.docx)
+- **Ram_Etwaroo/**
+    - [Learning_Java.pptx](resources/Ram_Etwaroo/Learning_Java.pptx)
+- **Kitty_Wu/**
+    - [ID2O_Shopping_Guide_for_Various_Industries.pdf](resources/Kitty_Wu/ID2O_Shopping_Guide_for_Various_Industries.pdf)
+- **Hanna_Kim/**
+    - [Lesson_#2_Worksheets.pdf](resources/Hanna_Kim/Lesson_#2_Worksheets.pdf)
+    - [Cybersecurity_-_Lesson_3.pdf](resources/Hanna_Kim/Cybersecurity_-_Lesson_3.pdf)
+    - [Cybersecurity_-_Lesson_2.pdf](resources/Hanna_Kim/Cybersecurity_-_Lesson_2.pdf)
+    - [Cybersecurity_-_Lesson_1.pdf](resources/Hanna_Kim/Cybersecurity_-_Lesson_1.pdf)
+    - [Unit_5_-_Summative_-_Cybersecurity_Comic_Strip.pdf](resources/Hanna_Kim/Unit_5_-_Summative_-_Cybersecurity_Comic_Strip.pdf)
+- **Peter_Conlon/**
+    - [summer_institute_resource_Conlon2024.docx](resources/Peter_Conlon/summer_institute_resource_Conlon2024.docx)
+    - [read_me_Conlon2024.docx](resources/Peter_Conlon/read_me_Conlon2024.docx)
+- **Helen_Strelkovska/**
+    - [If_and_Loops_for_Arduino.zip](resources/Helen_Strelkovska/If_and_Loops_for_Arduino.zip)
+    - **If_and_Loops_for_Arduino/**
+        - [For_Loop_Arduino.docx](resources/Helen_Strelkovska/If_and_Loops_for_Arduino/For_Loop_Arduino.docx)
+        - [If_Statements_Arduino.docx](resources/Helen_Strelkovska/If_and_Loops_for_Arduino/If_Statements_Arduino.docx)
+        - [if_statementArduino_worksheet.docx](resources/Helen_Strelkovska/If_and_Loops_for_Arduino/if_statementArduino_worksheet.docx)
+- **Jeff_Campbell/**
+    - [7_Reasons_This_Assignment_Will_Be_More_Interesting_Than_You_Think_(Number_3_Will_Surprise_You).docx](resources/Jeff_Campbell/7_Reasons_This_Assignment_Will_Be_More_Interesting_Than_You_Think_(Number_3_Will_Surprise_You).docx)
+- **Mark_Bouwmeester/**
+    - [2_Planning_TicTacToe.pdf](resources/Mark_Bouwmeester/2_Planning_TicTacToe.pdf)
+    - [1_Introduction.pdf](resources/Mark_Bouwmeester/1_Introduction.pdf)
+    - [4_Project_Instructions.pdf](resources/Mark_Bouwmeester/4_Project_Instructions.pdf)
+    - [3_AI_Player.pdf](resources/Mark_Bouwmeester/3_AI_Player.pdf)
+    - [Game.java](resources/Mark_Bouwmeester/Game.java)
+    - [Introduction_to_Q-Learning.pptx](resources/Mark_Bouwmeester/Introduction_to_Q-Learning.pptx)
+    - [AI.java](resources/Mark_Bouwmeester/AI.java)
+    - [TicTacToe.java](resources/Mark_Bouwmeester/TicTacToe.java)
+- **Paul_King/**
+    - [Unit1_L6_Java_IO_math_Formulae.html](resources/Paul_King/Unit1_L6_Java_IO_math_Formulae.html)
+    - [lessons.css](resources/Paul_King/lessons.css)
+    - [Unit1_L5_Python_IO_math_Formulae.html](resources/Paul_King/Unit1_L5_Python_IO_math_Formulae.html)
+- **Sandhya_Kemkar/**
+    - [TEJ2O_Robotics_unit_assignment.docx](resources/Sandhya_Kemkar/TEJ2O_Robotics_unit_assignment.docx)
+    - [TEJ3M_lab_assessment(_ver_2).docx](resources/Sandhya_Kemkar/TEJ3M_lab_assessment(_ver_2).docx)
+- **Danny_Tsang/**
+    - [Checkers_java_project_instructions.txt](resources/Danny_Tsang/Checkers_java_project_instructions.txt)
+    - [Checkers_initial_Code_java.txt](resources/Danny_Tsang/Checkers_initial_Code_java.txt)
+- **Richard_VanDeWiele/**
+    - [01_CULMINATING_ASSIGNMENT.docx](resources/Richard_VanDeWiele/01_CULMINATING_ASSIGNMENT.docx)
+    - [02_Game_Planning_Sheet.docx](resources/Richard_VanDeWiele/02_Game_Planning_Sheet.docx)
+- **Catherine_McCaffery/**
+    - [Example_Privacy_Policy_-_Beat_Star.docx](resources/Catherine_McCaffery/Example_Privacy_Policy_-_Beat_Star.docx)
+    - [Assignment_-_Exploring_Data_Privacy_Concerns.docx](resources/Catherine_McCaffery/Assignment_-_Exploring_Data_Privacy_Concerns.docx)
+    - [Example_Terms_and_Conditions_-_Beat_Star.docx](resources/Catherine_McCaffery/Example_Terms_and_Conditions_-_Beat_Star.docx)
+- **Kiley_McDaniel/**
+    - [CEMC_2024_McDaniel.zip](resources/Kiley_McDaniel/CEMC_2024_McDaniel.zip)
+    - [CEMC_2024_ICS3C_ICS4C_Python_programming_AND_pen_testing_lab_-_Kiley_McDaniel.txt](resources/Kiley_McDaniel/CEMC_2024_ICS3C_ICS4C_Python_programming_AND_pen_testing_lab_-_Kiley_McDaniel.txt)
+    - **CEMC_2024_McDaniel/**
+        - [_My_Personal_Dictionary.docx](resources/Kiley_McDaniel/CEMC_2024_McDaniel/_My_Personal_Dictionary.docx)
+        - [lab05_instructions_and_rubric.docx](resources/Kiley_McDaniel/CEMC_2024_McDaniel/lab05_instructions_and_rubric.docx)
+        - [CEMC_2024_-_Assignment_2_-_My_Personal_Dictionary.docx](resources/Kiley_McDaniel/CEMC_2024_McDaniel/CEMC_2024_-_Assignment_2_-_My_Personal_Dictionary.docx)
+        - [CEMC2024_-_McD_-__Assignment_1_-_DC_Connect_-_Dual_Credit_-_Oct_30_Day_38.docx](resources/Kiley_McDaniel/CEMC_2024_McDaniel/CEMC2024_-_McD_-__Assignment_1_-_DC_Connect_-_Dual_Credit_-_Oct_30_Day_38.docx)
+        - [CEMC_2024_ICS3C_ICS4C_Python_programming_AND_pen_testing_lab_-_Kiley_McDaniel.txt](resources/Kiley_McDaniel/CEMC_2024_McDaniel/CEMC_2024_ICS3C_ICS4C_Python_programming_AND_pen_testing_lab_-_Kiley_McDaniel.txt)
